@@ -1,0 +1,6 @@
+2025/10/20-11:19:33.872 447 Creating DB /home/hartness/.config/chromium/Default/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
+2025/10/20-11:19:33.891 447 Reusing MANIFEST /home/hartness/.config/chromium/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/10/20-11:38:18.646 447 Level-0 table #5: started
+2025/10/20-11:38:18.654 447 Level-0 table #5: 19756 bytes OK
+2025/10/20-11:38:18.662 447 Delete type=0 #3
+2025/10/20-11:38:18.663 447 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
