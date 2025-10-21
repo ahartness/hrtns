@@ -1,10 +1,10 @@
 add_newline = true
 command_timeout = 200
-format = "[$directory on $git_branch$git_status]($style)$character"
+format = "[$directory$git_branch$git_status]($style)$character"
 
 [character]
-error_symbol = "[✗](bold red)"
-success_symbol = "[❯](bold cyan)"
+error_symbol = "[✗](bold cyan)"
+success_symbol = "[❯](bold #D75F00)"
 
 [directory]
 truncation_length = 2
