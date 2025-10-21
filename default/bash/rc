@@ -1,0 +1,9 @@
+source ~/.local/share/hrtns/default/bash/shell
+source ~/.local/share/hrtns/default/bash/aliases
+source ~/.local/share/hrtns/default/bash/functions
+source ~/.local/share/hrtns/default/bash/prompt
+source ~/.local/share/hrtns/default/bash/init
+source ~/.local/share/hrtns/default/bash/envs
+
+
+[[ $- == *i* ]] && bind -f ~/.local/share/hrtns/default/bash/inputrc
