@@ -1,6 +1,6 @@
 #!/bin/bash
 
-browser=firefox
+browser=$browser
 
 case $browser in
 google-chrome* | brave-browser* | microsoft-edge* | opera* | vivaldi* | helium-browser*) ;;
