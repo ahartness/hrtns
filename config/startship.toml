@@ -4,7 +4,7 @@ format = "[$directory$git_branch$git_status]($style)$character"
 
 [character]
 error_symbol = "[✗](bold cyan)"
-success_symbol = "[❯](bold #D75F00)"
+success_symbol = "[λ](bold #D75F00)"
 
 [directory]
 truncation_length = 2
